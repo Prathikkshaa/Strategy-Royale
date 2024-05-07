@@ -2,26 +2,19 @@
 
 ChessMaster is a two-player chess game implemented in Python using the Pygame library.
 
-![ChessMaster Screenshot]
-
 ## Features
 
-- **Two-Player Game**: Play against a friend on the same computer.
-- **Classic Chess Rules**: Follows standard chess rules, including pawn promotion, en passant, and castling.
-- **User-Friendly Interface**: Easy-to-use graphical interface built with Pygame.
-- **Captured Pieces Display**: Shows captured pieces for each player.
-- **Check and Checkmate Detection**: Detects when a king is in check or checkmate occurs.
-- **Restart and Forfeit**: Options to restart the game or forfeit.
-- **Game Over Screen**: Displays the winner and allows for game restart after a win or draw.
+- **Two-Player Game:** Play against a friend on the same computer.
+- **Classic Chess Rules:** Follows standard chess rules, including pawn promotion, en passant, and castling.
+- **User-Friendly Interface:** Easy-to-use graphical interface built with Pygame.
+- **Captured Pieces Display:** Shows captured pieces for each player.
+- **Check and Checkmate Detection:** Detects when a king is in check or checkmate occurs.
+- **Restart and Forfeit:** Options to restart the game or forfeit.
+- **Game Over Screen:** Displays the winner and allows for game restart after a win or draw.
 
 ## Requirements
 
 - Python 3.x
 - Pygame library
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/ChessMaster.git
